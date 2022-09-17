@@ -1,4 +1,4 @@
-## Projeto JavaPOO
+## Projeto Front-End
 
 Front-End project and practice
 
@@ -21,7 +21,6 @@ Front-End project and practice
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-- JavaScript
 - CSS 3
 - HTML 5
 
