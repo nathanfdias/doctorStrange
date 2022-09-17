@@ -13,7 +13,7 @@ Front-End project and practice
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como executar o projeto](#-como-executar-o-projeto)
 - [Construído com](#%EF%B8%8F-construído-com)
-- [Autores](#%EF%B8%8F-autores)
+- [Autor](#%EF%B8%8F-autores)
 
 --- 
 
@@ -39,10 +39,10 @@ Apenas instalando os arquivos de projeto.
 * [Auxílio](https://www.linkedin.com/in/fernandoleonid/?originalSubdomain=br) - professor de Front-End
 --- 
 
-## ✒️ Autores
+## ✒️ Autor
 
   [<img src="https://avatars.githubusercontent.com/u/104539556?v=4" width=115><br><sub>Nathan Dias</sub>](https://github.com/nathanfdias)
-| :---: | :---: | :---: | :---: | :---: |
+
 --- 
  
 ## 🎁 Expressões de gratidão

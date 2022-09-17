@@ -1,0 +1,7 @@
+body{
+/*    display: block; Não necessário, já possui*/
+    height: 100vh;
+    background: linear-gradient(90deg, #000, #000e 35%, #0000), url(../../public/imgs/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
