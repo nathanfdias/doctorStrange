@@ -23,6 +23,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 - CSS 3
 - HTML 5
+- JAVASCRIPT
 
 --- 
 
